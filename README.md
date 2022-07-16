@@ -1,2 +1,2 @@
 # TV-APP
-The App writen with Javascript.
+The application is written in javascript
